@@ -12,7 +12,7 @@ public class Paciente {
     private String nombre;
     private String apellido;
     private LocalDate fecha_nacimiento;
-
+//CONSTRUCTORES SIEMPRE
     public Paciente() {
     }
 
